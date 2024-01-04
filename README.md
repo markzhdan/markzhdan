@@ -1,10 +1,10 @@
 Hi 👋 My name is Mark Zhdan
 ===========================
 
-Full-stack web developer and data scientist...
+I am a full-stack web developer and data scientist.
 
 * 🌍  I'm based in Chicago
-* 🖥️  See my portfolio at [markzhdan](http://markzhdan.com)
+* 🖥️  See my portfolio at [markzhdan.com](http://markzhdan.com)
 * ✉️  You can contact me at [markzhdan@gmail.com](mailto:markzhdan@gmail.com)
 * 🚀  I'm currently working on [Post-Plant](http://postplant.app)
 * 🧠  I'm learning Redux & Docker
