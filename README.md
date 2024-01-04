@@ -7,7 +7,7 @@ I am a full-stack web developer and data scientist.
 * 🖥️  See my portfolio at [markzhdan.com](http://markzhdan.com)
 * ✉️  You can contact me at [markzhdan@gmail.com](mailto:markzhdan@gmail.com)
 * 🚀  I'm currently working on [Post-Plant](http://postplant.app)
-* 🧠  I'm learning Redux & Docker
+* 🎯  My 2024 goal: daily coding challenge @ [my blog](https://markzhdan.com/blogs/daily-blogs)
 
 ### Skills
 
