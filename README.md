@@ -1,13 +1,12 @@
 Hi 👋 My name is Mark Zhdan
 ===========================
 
-I am a full-stack web developer and data scientist.
+I'm a full-stack web developer and CS Student.
 
 * 🌍  I'm based in Chicago
-* 🖥️  See my portfolio at [markzhdan.com](http://markzhdan.com)
+* 🖥️  See my portfolio & blog at [markzhdan.com](https://markzhdan.com)
 * ✉️  You can contact me at [markzhdan@gmail.com](mailto:markzhdan@gmail.com)
-* 🚀  I'm currently working on [Post-Plant](http://postplant.app)
-* 🎯  My 2024 goal: daily coding challenge @ [my blog](https://markzhdan.com/blogs/daily-blogs)
+* 🚀  I'm currently working on [Curriculo](https://usecurriculo.com)
 
 ### Skills
 
