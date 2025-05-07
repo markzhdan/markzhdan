@@ -1,12 +1,12 @@
 Hi 👋 My name is Mark Zhdan
 ===========================
 
-I'm a full-stack web developer and CS Student.
+I'm a Software Engineer I at Blinkfire Analytics.
 
 * 🌍  I'm based in Chicago
-* 🖥️  See my portfolio & blog at [markzhdan.com](https://markzhdan.com)
-* ✉️  You can contact me at [markzhdan@gmail.com](mailto:markzhdan@gmail.com)
-* 🚀  I'm currently working on [Curriculo](https://usecurriculo.com)
+* 🖥️  My portfolio & blog at [markzhdan.com](https://markzhdan.com)
+* ✉️  Contact me at [markzhdan@gmail.com](mailto:markzhdan@gmail.com)
+* 🎓  B.S. in CS @ UIC
 
 ### Skills
 
