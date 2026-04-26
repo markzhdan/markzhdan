@@ -1,7 +1,7 @@
 Hi 👋 My name is Mark Zhdan
 ===========================
 
-I'm a Software Engineer I at Blinkfire Analytics.
+I'm a Software Engineer at Blinkfire Analytics.
 
 * 🌍  I'm based in Chicago
 * 🖥️  My portfolio & blog at [markzhdan.com](https://markzhdan.com)
